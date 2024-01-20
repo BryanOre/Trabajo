@@ -1,0 +1,29 @@
+
+form {
+    width: 400px;
+    background: #0000009d;
+    color: #ffffff;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+  }
+  
+  input {
+    width: 90%;
+    background: #00000063;
+    padding: 8px;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-bottom: 16px;
+    border: 1px solid #0e0d0dce;
+  }
+  
+  input[type="submit"] {
+    height: 40px;
+    text-align: center;
+    background-color: #8db600;
+    color: #000000;
+    cursor: pointer;
+  }
+  
